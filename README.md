@@ -3,6 +3,7 @@
 Code of paper "AdaLoGN: Adaptive Logic Graph Network for Reasoning-Based Machine Reading Comprehension".
 
 ## Requirements
+python3.7
 ```
 torch==1.7.1
 dgl-cu101==0.6.1
